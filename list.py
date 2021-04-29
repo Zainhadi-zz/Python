@@ -26,3 +26,18 @@ data1 = ["qwrfw","3wfwfw","3fwfw"]
 #print(list2[::-1])
 
 #mutable
+
+list3 = [3,43,4,43,232,2]
+
+list3[2]=234
+
+#print(list3)
+
+list3.append(23)
+
+#print(list3)
+
+list3.pop()
+
+print(list3)
+
